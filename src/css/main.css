@@ -1,0 +1,11 @@
+:root{
+     --dark: #1a1a1a; 
+}
+body{
+    color:white;background-color: var(--dark);
+}
+
+.theme{
+    color: white;
+    background-color: var(--dark);
+}
